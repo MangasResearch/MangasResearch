@@ -33,5 +33,5 @@ navbar:
           href: page-d.html
 output:
   html_document:
-    theme: cosmo
+    theme: sandstone
     highlight: textmate
