@@ -1,19 +1,16 @@
 name: "Manga's Research"                                 
 output_dir: "."
 navbar:
-  title: "Manga's Research"                             
+  title: "Manga's Research"   
   type: default
   left:
-    - text: "Home"
-      icon: fa-home
-      href: index.html
-    - text: "About"
-      icon: fa-user 
-      href: about.html
+    - text: "Dataset"
+      icon: fa-database
+      href: dataset.html
+    - text: "Authors"
+      icon: fa-users 
+      href: authors.html
   right:
-    - text: "Contact me"
-      icon: fa-envelope-o
-      href: mailto:jecamangaoriginal@gmail.com                   
     - text: "GitHub"
       icon: fa-github
       href: https://github.com/mangasresearch    
@@ -33,5 +30,6 @@ navbar:
           href: page-d.html
 output:
   html_document:
-    theme: sandstone
+    theme: journal
     highlight: textmate
+    css: styles.css
