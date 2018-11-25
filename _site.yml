@@ -1,0 +1,37 @@
+name: "Manga's Research"                                 
+output_dir: "."
+navbar:
+  title: "Manga's Research"                             
+  type: default
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "About"
+      icon: fa-user 
+      href: about.html
+  right:
+    - text: "Contact me"
+      icon: fa-envelope-o
+      href: mailto:jecamangaoriginal@gmail.com                   
+    - text: "GitHub"
+      icon: fa-github
+      href: https://github.com/mangasresearch    
+    - text: "More"
+      icon: fa-gear
+      menu:
+        - text: "Heading 1"
+        - text: "Page A"
+          href: index.html
+        - text: "Page B"
+          href: index.html
+        - text: "---------"
+        - text: "Heading 2"
+        - text: "Page C"
+          href: about.html
+        - text: "Page D"
+          href: about.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
