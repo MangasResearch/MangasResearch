@@ -4,6 +4,9 @@ navbar:
   title: "Manga's Research"   
   type: default
   left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
     - text: "Dataset"
       icon: fa-database
       href: dataset.html
