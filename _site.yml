@@ -33,3 +33,5 @@ output:
     theme: journal
     highlight: textmate
     css: styles.css
+    include:
+        after_body: footer.html
