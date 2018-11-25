@@ -1,3 +1,4 @@
-# MangasResearch.github.io
+# datasciencecomr
+Código fonte do site, feito em RMarkdown 
 
-This repository contains the source code of the site https://MangasResearch.github.io.
+https://datasciencecomr.github.io/
