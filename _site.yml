@@ -1,11 +1,14 @@
 name: "Manga's Research"                                 
 output_dir: "."
 navbar:
-  title: "DS&R"
+  title: "Manga's Research"                             
+  type: default
   left:
-    - text: "Início"
+    - text: "Home"
+      icon: fa-home
       href: index.html
-    - text: "Dicas"
+    - text: "About"
+      icon: fa-user 
       href: about.html
 output:
   html_document:
