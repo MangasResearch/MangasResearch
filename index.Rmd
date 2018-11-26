@@ -1,0 +1,68 @@
+---
+title: "Data Science com R (Grupo - Telegram)"
+output:
+  html_document:
+    css: styles.css
+---
+<style type="text/css">
+.main-container {
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+
+# Data Science com R - (Telegram)
+
+<center>
+```{r fig.width=3, fig.height=3,echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG("images/logo.png")
+ grid.raster(img)
+```
+</center>
+
+### [\@datasciencecomR](http://t.me/datasciencecomR)
+
+Com o enorme crescimento da área de Data Science, e a existência de poucos grupos de R no telegram no Brasil, criamos o grupo [\@datasciencecomR](http://t.me/datasciencecomR), e esperamos uma boa troca de conhecimentos e experiência a cerca dessa linguagem e dessa área fascinante que é data science. Links de materiais de apoio, compartilhamento de projetos open-sources e gratuitos são bem-vindos no grupo.
+
+Para fazer parte do grupo, é necessário o cumprimento de algumas regras de boa convivência, esperamos um ambiente amistoso, inclusivo e livre de intimidação, onde todas as pessoas são bem-vindas e a civilidade é exigida. Com esse intuito, listamos algumas regras, elas foram inspiradas no código de conduta do [Python Brasil](https://github.com/pythonbrasil/codigo-de-conduta).
+
+### Regras:
+
+🚫 Não é tolerado nenhum tipo de assédio, discriminação inapropriada, falta de respeito ou humilhação pública entre os membros;
+
+🚫 Não é tolerado o descumprimento das leis brasileiras;
+
+🚫 Não é permitida a pirataria;
+
+🚫 Proibido Pornografia ou conteúdo de cunho sexual explícito (Fotos, Imagens e Vídeos); 
+
+🚫 Nada de Brigas, Ofensas ou Conflitos de Qualquer Natureza;
+
+📌 Evite Flood (corresponde a uma sequência de  mensagens repetidas);
+
+📌 Nada de  SPAM;
+
+📌 Não adicione bots ao grupo;
+
+✔️ Usem o bom senso, dependendo da gravidade da situação, o membro pode ser: 
+
+* Apenas notificado de sua conduta  (três vezes, na última o membro será expulso);
+* Notificado e expulso;
+
+
+### Dicas:
+
+👉 Para facilitar a comunicação,  sugere-se a criação de um nick no Telegram, esse nick facilita ao mencionar uma pessoa no chat, caso não saiba criar um nick, veja como fazer nesse [link](https://www.showmetech.com.br/tutotial-nome-de-usuario-no-telegram/) ou nesse [link](http://tudosobretelegram.com.br/2016/02/17/como-criar-nome-de-usuario-no-telegram/).
+
+👉 Caso você tenha tido algum problema com algum dos membros no nosso grupo, reporte aos admins, você pode acessar a lista de admins escrevendo /admins no chat grupo. 
+
+🗣 Dúvidas e/ou descontentamentos deverão ser tratados direta e responsavelmente, buscando sempre o uso da ética e do respeito mútuo. Se tiver algum desrespeito com as regras em algum post, reporte a um dos ADMS.
+
+
+Adicione/convide seus amigos/conhecidos, o link do grupo pode ser acessado abaixo:
+
+Link: [t.me/DataSciencecomR](http://t.me/datasciencecomR)

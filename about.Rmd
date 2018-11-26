@@ -1,0 +1,43 @@
+---
+title: "Dicas"
+output:
+  html_document:
+    css: styles.css
+---
+
+<style type="text/css">
+.main-container {
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+<br>
+
+### Conteúdo sobre R (Em inglês):
+
+Se você quiser conhecer mais sobre R, você pode encontrar alguns materiais a respeito da linguagem no site do [bookdown](https://bookdown.org/). Os meus favoritos são:
+
+* [R for Data Science](https://r4ds.had.co.nz/)
+
+* [Text Mining with R](https://tidytextmining.com/)
+
+* [Advanced R](https://adv-r.hadley.nz/)
+
+Alguns sites para estudo de R:
+
+* [CRAN (Na seção Documentation)](https://cran.r-project.org/)
+
+* [Cyclismo](https://www.cyclismo.org/tutorial/R/) 
+
+* [R-tutor](http://www.r-tutor.com/) 
+
+* [R-Bloggers](https://www.r-bloggers.com/) 
+
+Um pacote que eu achei interessante foi o [swirl](https://swirlstats.com/) que ensina R usando o R 😮.
+
+ Há uma ferramenta de buscas para realizar pesquisas sobre R, um tipo de Google do R, o nome dela é [RSeek](https://rseek.org/). Caso tenha interesse em canais, no telegram temos o [\@RLangNews](http://t.me/RLangNews), nesse canal notícias relacionadas a R/Data Science são postadas frequentemente:
+
+Boa caça ao tesouro, seja bem-vindo/vinda ao [\@datasciencecomR](http://t.me/datasciencecomR)!
+
+Se tiver sugestões de conteúdo, só avisar 😉.
