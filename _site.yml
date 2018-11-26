@@ -1,5 +1,5 @@
 name: "Manga's Research"                                 
-output_dir: "docs"
+output_dir: "."
 navbar:
   title: "Manga's Research"   
   type: default
